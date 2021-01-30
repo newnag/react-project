@@ -1,0 +1,11 @@
+[
+  {"id":1, "firstname": "John", "lastname": "Dev", "age": 29, "department": "Programmer"},
+  {"id":2, "firstname": "Lisa", "lastname": "Hou", "age": 23, "department": "HR"},
+  {"id":3, "firstname": "Eve", "lastname": "Dan", "age": 18, "department": "Marketing"},
+  {"id":4, "firstname": "Edward", "lastname": "Elric", "age": 21, "department": "Alchemist"},
+  {"id":5, "firstname": "Roy", "lastname": "Mustang", "age": 23, "department": "Alchemist"},
+  {"id":6, "firstname": "Evan", "lastname": "Hawk", "age": 18, "department": "Sniper"},
+  {"id":7, "firstname": "John", "lastname": "Timber", "age": 29, "department": "Communicator"},
+  {"id":8, "firstname": "Lisa", "lastname": "Hawkeye", "age": 23, "department": "Sniper"},
+  {"id":9, "firstname": "Alfonse", "lastname": "Elric", "age": 18, "department": "Robot"}
+]
